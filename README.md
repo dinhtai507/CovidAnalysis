@@ -1,7 +1,7 @@
 # COVID-19 Data Analysis Repository
 
 ## Overview
-Welcome to the COVID-19 Data Analysis repository, a comprehensive resource center dedicated to unraveling patterns within COVID-19 data. This repository provides essential datasets and analytical scripts for in-depth exploration of mortality and vaccination statistics during the ongoing global pandemic.
+Welcome to the COVID-19 Data Analysis repository, a comprehensive resource center dedicated to unraveling patterns within COVID-19 data. This repository provides essential datasets and analytical scripts for in-depth exploration of mortality and vaccination statistics during the ongoing global pandemic. By providing curated datasets and analytical scripts, the repository aims to empower researchers, policymakers, data scientists, and the broader community with valuable insights into the complex dynamics of the pandemic.
 
 ## Datasets
 ### 1. CovidDeaths.xlsx
